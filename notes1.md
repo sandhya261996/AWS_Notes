@@ -1,13 +1,13 @@
 ## How to upgrade or downgrade a system with zero downtime in aws ?
 
 <ol>
-<li>1.)Open EC2 console.</li>
-<li>2.)Choose Operating System AMI.</li>
-<li>3.)Launch an instance with the new instance type.</li>
-<li>4.)Install all the updates.</li>
-<li>5.)Install applications.</li>
-<li>6.)Test the instance to see if it's working.</li>
-<li>7.)If working, deploy the new instance and replace the older instance.</li>
+<li>Open EC2 console.</li>
+<li>Choose Operating System AMI.</li>
+<li>Launch an instance with the new instance type.</li>
+<li>Install all the updates.</li>
+<li>Install applications.</li>
+<li>Test the instance to see if it's working.</li>
+<li>If working, deploy the new instance and replace the older instance.</li>
 </ol>
 
 
